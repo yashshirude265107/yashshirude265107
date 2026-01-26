@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Yash Shirude  
 
-💻 Java / Full-Stack Developer | 🚀 PG-DAC (CDAC Bangalore) | 📚 Lifelong Learner  
-
-🎓 B.E. Computer Engineering  
-📍 India  
+💻 Java / Full-Stack Developer | 🌐 Passionate Coder | 📚 Lifelong Learner  
+🎓 B.E. Computer Engineering | 🚀 PG-DAC (CDAC Bangalore)
 🔍 Actively seeking Project Engineer / Software Developer opportunities  
 
 ---
@@ -13,24 +11,37 @@
 I'm a passionate Java & Full-Stack Developer with strong hands-on experience in building scalable, secure, and user-friendly applications.  
 I enjoy backend development, clean architecture, and solving real-world problems using modern technologies.
 
-- 🔧 Strong in **Java, Spring Boot, Servlets, JSP, REST APIs**
-- 🗄️ Databases: **MySQL, MongoDB**
-- 🧠 Core Concepts: **OOPs, DSA, DBMS, OS, MVC, SDLC**
-- 🛠️ Tools: **Git, GitHub, Postman, VS Code, Eclipse**
-- 🏃‍♂️ Believe in discipline, consistency & continuous learning
+🔧 Skilled in **Java, Spring Boot, Servlets, JSP, REST APIs**  
+🗄️ Experienced with **MySQL & MongoDB** databases  
+🧠 Strong foundation in **OOPs, DSA, DBMS, Operating Systems, MVC & SDLC**  
+🛠️ Hands-on with **Git, GitHub, Postman, VS Code & Eclipse**  
+🏃‍♂️ Believe in **discipline, consistency & continuous learning**
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Languages:** Java, C++, JavaScript  
-**Backend:** Spring Boot, Spring MVC, Servlets, JSP, REST APIs  
-**Frontend:** HTML, CSS, JavaScript, React (Basics)  
-**Databases:** MySQL, MongoDB  
-**Tools:** Git, GitHub, Postman, Eclipse, NetBeans  
-**Deployment:** Vercel, Netlify, Render  
-**Process:** Agile / Scrum, JIRA  
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React_(Basics)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)
+ 
 ---
 
 ## 🚀 Projects  
