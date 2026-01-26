@@ -24,6 +24,8 @@ I enjoy backend development, clean architecture, and solving real-world problems
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -41,10 +43,25 @@ I enjoy backend development, clean architecture, and solving real-world problems
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-0466C8?style=for-the-badge&logo=render&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
  
 ---
 
 ## 🚀 Projects  
+
+### 🩺 Doctor Appointment Booking System  
+**Tech Stack:** Java, Servlets, JSP, JDBC, MySQL  
+
+A full-stack web application that allows patients to book, cancel, and reschedule doctor appointments with role-based access.
+
+**Key Features:**  
+- Role-based login (Doctor & Patient)  
+- Appointment scheduling & management  
+- Secure data handling using JDBC  
+- MVC architecture for clean separation  
+
+---
 
 ### 🔐 Cloud Data Security using AES & Blockchain  
 **Tech Stack:** .NET, C#, MySQL  
@@ -122,7 +139,7 @@ https://bejewelled-valkyrie-d98698.netlify.app/
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashshirude265107&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashshirude265107&show_icons=true&theme=tokyonight)
 
 ---
 
