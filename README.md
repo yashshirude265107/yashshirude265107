@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash Shirude  
 
-💻 Java / Full-Stack Developer | 🌐 Passionate Coder | 📚 Lifelong Learner  
+💻 Java / Full-Stack Developer | 🌐 Passionate Coder | 📚 Lifelong Learner
 🎓 B.E. Computer Engineering | 🚀 PG-DAC (CDAC Bangalore)
 🔍 Actively seeking Project Engineer / Software Developer opportunities  
 
