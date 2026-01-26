@@ -139,7 +139,7 @@ https://bejewelled-valkyrie-d98698.netlify.app/
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashshirude265107&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashshirude265107&show_icons=true&theme=radical)
 
 ---
 
