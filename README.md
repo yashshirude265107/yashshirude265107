@@ -50,15 +50,49 @@ I enjoy backend development, clean architecture, and solving real-world problems
 ## 🚀 Projects  
 
 ### 🩺 Doctor Appointment Booking System  
-**Tech Stack:** Java, Servlets, JSP, JDBC, MySQL  
+**Tech Stack:** MongoDB, Express, React, Node  
 
-A full-stack web application that allows patients to book, cancel, and reschedule doctor appointments with role-based access.
+**ChintanEx** is a scalable full-stack MERN application built to simplify and digitize the doctor appointment booking process.
+It provides a secure, role-based system with dedicated dashboards for Users, Doctors, and Admin, enabling smooth appointment management, profile handling, and system control from a single platform.
+The project focuses on real-world healthcare workflows, clean UI, secure authentication, and efficient data handling.
 
 **Key Features:**  
-- Role-based login (Doctor & Patient)  
-- Appointment scheduling & management  
-- Secure data handling using JDBC  
-- MVC architecture for clean separation  
+**👤 User Panel**
+- User registration & login (JWT Authentication)
+- Browse doctors by speciality
+- Book doctor appointments
+- View & manage appointments
+- Profile management
+
+**🩺 Doctor Panel**
+- Doctor login
+- View assigned appointments
+- Update profile & availability
+- Dashboard overview
+
+**🛠️ Admin Panel**
+- Admin login
+- Add, update & manage doctors
+- View all users & appointments
+- System dashboard with statistics
+
+---
+
+###🎓Full Stack Student Management System
+**Tech Stack:** Java, Spring Boot, Spring Web (REST API), Hibernate, MySQL, React (Vite)
+
+Developed a Full Stack Student Management System using Spring Boot and React. Implemented RESTful APIs for CRUD operations, integrated React frontend using Axios, and followed MVC architecture with Spring Data JPA and MySQL.
+
+**Key Highlights:**
+- Admin Dashboard UI
+- View all students in tabular format
+- Add new student
+- Edit student details (name, email, course)
+- Delete student
+- REST API based architecture
+
+🔗 **Repository:**  
+https://github.com/yashshirude265107/Full-Stack-Student-Management-System.git
 
 ---
 
