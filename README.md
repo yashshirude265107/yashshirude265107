@@ -78,7 +78,7 @@ The project focuses on real-world healthcare workflows, clean UI, secure authent
 
 ---
 
-###🎓Full Stack Student Management System
+### 🎓Full Stack Student Management System
 **Tech Stack:** Java, Spring Boot, Spring Web (REST API), Hibernate, MySQL, React (Vite)
 
 Developed a Full Stack Student Management System using Spring Boot and React. Implemented RESTful APIs for CRUD operations, integrated React frontend using Axios, and followed MVC architecture with Spring Data JPA and MySQL.
