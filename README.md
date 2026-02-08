@@ -76,6 +76,8 @@ The project focuses on real-world healthcare workflows, clean UI, secure authent
 - View all users & appointments
 - System dashboard with statistics
 
+🔗 **Repository:**  
+https://github.com/yashshirude265107/ChintanRx.git
 ---
 
 ### 🎓Full Stack Student Management System
