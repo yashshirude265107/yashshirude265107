@@ -1,4 +1,4 @@
-👋 Hi, I'm Yash Shirude
+# 👋 Hi, I'm Yash Shirude
 
 💻 Java / Full-Stack Developer | 🤖 AI Enthusiast | 🌐 Passionate Coder | 📚 Lifelong Learner
 🎓 B.E. Computer Engineering | 🚀 PG-DAC (CDAC Bangalore)
