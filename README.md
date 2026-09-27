@@ -146,21 +146,29 @@ https://bejewelled-valkyrie-d98698.netlify.app/
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
-### 🏢 Trainee Intern – Reveuse Platform Pvt. Ltd.  
-📅 Dec 2023 – Jan 2024  
+### 🏢 Software Development Intern – Khodke Solutions (KS) Pvt. Ltd.
+📅 Feb 2026 – Jul 2026
 
-- Developed modular Java applications using Core Java  
-- Collaborated with the development team to improve application logic  
-- Participated in debugging, testing, and code reviews  
+- Developed and worked on software applications using Java and Spring Boot
+- Built and integrated REST APIs with MySQL using JPA/Hibernate
+- Participated in software development, testing, debugging, and deployment activities
+- Used Git for version control and collaborated on development tasks
 
-### 🎓 Technical Training – TNS India Foundation  
-📅 Apr 2024 – Jul 2024  
+### 🏢 Trainee Intern – Reveuse Platform Pvt. Ltd.
+📅 Dec 2023 – Jan 2024
 
-- Built full-stack applications using Java & Spring Boot  
-- Designed and integrated SQL databases  
-- Gained hands-on experience with REST APIs and backend integration  
+- Developed modular Java applications using Core Java
+- Collaborated with the development team to improve application logic
+- Participated in debugging, testing, and code reviews
+
+### 🎓 Technical Training – TNS India Foundation
+📅 Apr 2024 – Jul 2024
+
+- Built full-stack applications using Java & Spring Boot
+- Designed and integrated SQL databases
+- Gained hands-on experience with REST APIs and backend integration
 
 ---
 
