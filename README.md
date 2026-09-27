@@ -1,20 +1,33 @@
-# 👋 Hi, I'm Yash Shirude  
+👋 Hi, I'm Yash Shirude
 
-💻 Java / Full-Stack Developer | 🌐 Passionate Coder | 📚 Lifelong Learner                 
-🎓 B.E. Computer Engineering | 🚀 PG-DAC (CDAC Bangalore)                           
-🔍 Actively seeking Project Engineer / Software Developer opportunities  
+💻 Java / Full-Stack Developer | 🤖 AI Enthusiast | 🌐 Passionate Coder | 📚 Lifelong Learner
+🎓 B.E. Computer Engineering | 🚀 PG-DAC (CDAC Bangalore)
+🔍 Actively seeking Software Developer / Full-Stack Developer opportunities
 
 ---
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me
 
-I'm a passionate Java & Full-Stack Developer with strong hands-on experience in building scalable, secure, and user-friendly applications.  
-I enjoy backend development, clean architecture, and solving real-world problems using modern technologies.
+I'm a passionate Java & Full-Stack Developer with hands-on experience in building
+scalable, secure, and user-friendly applications.
 
-🔧 Skilled in **Java, Spring Boot, Servlets, JSP, REST APIs**  
-🗄️ Experienced with **MySQL & MongoDB** databases  
-🧠 Strong foundation in **OOPs, DSA, DBMS, Operating Systems, MVC & SDLC**  
-🛠️ Hands-on with **Git, GitHub, Postman, VS Code & Eclipse**  
+I enjoy backend development, clean architecture, solving real-world problems,
+and exploring how AI can be integrated into modern software applications.
+
+🔧 Skilled in **Java, Spring Boot, Servlets, JSP, REST APIs**
+
+🗄️ Experienced with **MySQL, MongoDB & SQLite**
+
+🤖 Exploring **Generative AI, LLMs, Prompt Engineering,
+AI-Assisted Development & AI-powered Applications**
+
+🧠 Strong foundation in **OOPs, DSA, DBMS, Operating Systems,
+MVC & SDLC**
+
+🛠️ Hands-on with **Git, GitHub, Postman, VS Code & Eclipse**
+
+🌐 Frontend experience with **React.js, JavaScript, HTML & CSS**
+
 🏃‍♂️ Believe in **discipline, consistency & continuous learning**
 
 ---
